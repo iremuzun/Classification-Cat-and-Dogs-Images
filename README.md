@@ -1,2 +1,3 @@
 # Using CNN TensorFlow and Keras to Image Classify
-A multi-purpose calculator project written with the topics learned during the semester
+The training archive contains 1000 images of cats and dogs.
+The aim is to train algorithms on these files and predict the labels.
